@@ -8,8 +8,9 @@ function About() {
     const responsive = 95;
     const photoshop = 60;
 
+
     return (
-        <section id='Shop' className="block about-block">
+        <section id='about' className="block about-block">
             <Container fluid>
                 <div className='title-holder'>
                     <h2>About Us</h2>
